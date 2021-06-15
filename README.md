@@ -36,4 +36,4 @@ Welcome to my profile! I'm a Computer Engineering student at DJSCE, Mumbai. I'm 
 |--|--|
 <br>
 
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sakshi-uppoor/)!
+Thanks for visiting! I'd love to [connect](https://www.linkedin.com/in/sakshi-uppoor/)!
