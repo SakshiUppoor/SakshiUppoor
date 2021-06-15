@@ -1,4 +1,5 @@
-# Hi, I'm Sakshi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+
+# Hi, I'm Sakshi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 [![Linkedin Badge](https://img.shields.io/badge/-sakshi--uppoor-blue?logo=linkedin)](https://www.linkedin.com/in/sakshi-uppoor/)
 [![Twitter Badge](https://img.shields.io/badge/-VisualCoder-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/VisualCoder)
 [![Instagram Badge](https://img.shields.io/badge/-airiadne-4f58ca?logo=instagram&logoColor=white)](https://www.instagram.com/airiadne/?hl=en)
@@ -21,8 +22,8 @@ Welcome to my profile! I'm a Computer Engineering student at DJSCE, Mumbai. I'm 
 
 **Hosting & Deployment**
 
-|<img title="cPanel" alt="cPanel" width="40px" src="https://cloudfitters.com/wp-content/uploads/2020/10/371-3713175_cpanel-hosting-customer-solution-icon.jpg">|<img title="Python Anywhere" alt="Python Anywhere" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOXKdQMsGfjwn9UiAo6xmwNLWa7YO9qYFpWUlMc2YBlfhwEA6SN1Q-BtPd3f-jUmgqjw&usqp=CAU">|<img title="Heroku" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png">
-|--|--|--|
+|<img title="cPanel" alt="cPanel" width="40px" src="https://cloudfitters.com/wp-content/uploads/2020/10/371-3713175_cpanel-hosting-customer-solution-icon.jpg">|<img title="Python Anywhere" alt="Python Anywhere" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOXKdQMsGfjwn9UiAo6xmwNLWa7YO9qYFpWUlMc2YBlfhwEA6SN1Q-BtPd3f-jUmgqjw&usqp=CAU">|<img title="Netlify" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png">
+|--|--|--|--|
 
 **Databases**
 
