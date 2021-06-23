@@ -5,7 +5,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-airiadne-4f58ca?logo=instagram&logoColor=white)](https://www.instagram.com/airiadne/?hl=en)
 [![Gmail Badge](https://img.shields.io/badge/-sakshiuppoor%40gmail.com-red?logo=gmail&logoColor=white)](mailto:sakshiuppoor@gmail.com)
 
+<img align="right" src="https://media.tenor.com/images/a8112d7d456869eea83af990bb91894c/tenor.gif">
 Welcome to my profile! I'm a Computer Engineering student at DJSCE, Mumbai. I'm a full stack web developer and UI designer. 
+
+- 🔭 I’m currently working on my competitive programming skills
+- 🌱 I’m currently learning GraphQL
+- 🤝 Open to collaboration
+- 💬 Ask me about web development & UI design
 
 ## Some technologies I've worked with
 
