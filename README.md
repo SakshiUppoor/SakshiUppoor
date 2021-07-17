@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-VisualCoder-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/VisualCoder)
 [![Instagram Badge](https://img.shields.io/badge/-airiadne-4f58ca?logo=instagram&logoColor=white)](https://www.instagram.com/airiadne/?hl=en)
 [![Gmail Badge](https://img.shields.io/badge/-sakshiuppoor%40gmail.com-red?logo=gmail&logoColor=white)](mailto:sakshiuppoor@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=SakshiUppoor&label=Profile%20views&color=blue&style=flat)](https://github.com/SakshiUppoor)
 
 <img align="right" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif">
 Welcome to my profile! I'm a Computer Engineering student at DJSCE, Mumbai. I'm a full stack web developer and UI designer. 
