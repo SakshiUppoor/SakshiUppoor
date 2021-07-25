@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=SakshiUppoor&label=Profile%20views&color=blue&style=flat)](https://github.com/SakshiUppoor)
 
 <img align="right" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif">
-Welcome to my profile! I'm a Computer Engineering student at DJSCE, Mumbai. I'm a full stack web developer and UI designer. 
+Welcome to my profile! I'm a final year Computer Engineering student at DJSCE, Mumbai. I'm a full stack web developer and UI designer. 
 
 - 🔭 I’m currently working on my competitive programming skills
 - 🌱 I’m currently learning GraphQL
