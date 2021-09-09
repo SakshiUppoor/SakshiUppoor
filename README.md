@@ -9,10 +9,11 @@
 <img align="right" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif">
 Welcome to my profile! I'm a final year Computer Engineering student at DJSCE, Mumbai. I'm a full stack web developer and UI designer. 
 
-- 🔭 I’m currently working on my competitive programming skills
-- 🌱 I’m currently learning GraphQL
-- 🤝 Open to collaboration
+- 🔭 Working on [Zen Mode for Youtube](https://github.com/SakshiUppoor/youtube-zen-mode) (Browser Extension)
+- 🌱 Learning JavaScript
+- 👯‍♀️ Looking to collaborate on JavaScript & Python projects 
 - 💬 Ask me about web development & UI design
+- 😄 Pronouns: She/Her
 
 ## Some technologies I've worked with
 
