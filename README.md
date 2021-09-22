@@ -2,7 +2,6 @@
 # Hi, I'm Sakshi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 [![Linkedin Badge](https://img.shields.io/badge/-sakshi--uppoor-blue?logo=linkedin)](https://www.linkedin.com/in/sakshi-uppoor/)
 [![Twitter Badge](https://img.shields.io/badge/-VisualCoder-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/VisualCoder)
-[![Instagram Badge](https://img.shields.io/badge/-airiadne-4f58ca?logo=instagram&logoColor=white)](https://www.instagram.com/airiadne/?hl=en)
 [![Gmail Badge](https://img.shields.io/badge/-sakshiuppoor%40gmail.com-red?logo=gmail&logoColor=white)](mailto:sakshiuppoor@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=SakshiUppoor&label=Profile%20views&color=blue&style=flat)](https://github.com/SakshiUppoor)
 
