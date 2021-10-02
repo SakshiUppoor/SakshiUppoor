@@ -14,8 +14,12 @@ Welcome to my profile! I'm a final year Computer Engineering student at DJSCE, M
 - 💬 Ask me about web development & UI design
 - 😄 Pronouns: She/Her
 
-## Some technologies I've worked with
+### Some technologies I've worked with
+- **Languages:** Python, C++, Java, HTML, CSS, JavaScript, SQL
+- **Frameworks/Libraries:** Django, Django REST Framework, Django Channels, Node, React, Flask
+- **Others:** Git, Linux, Heroku, cPanel, Websockets, Redis
 
+<!-- 
 **Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C++" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">|<img title="Java" alt="Java" width="40px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png">|<img title="HTML" alt="HTML" width="40px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">|<img title="CSS" alt="CSS" width="40px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png">
@@ -44,3 +48,4 @@ Welcome to my profile! I'm a final year Computer Engineering student at DJSCE, M
 <br>
 
 Thanks for visiting! I'd love to [connect](https://www.linkedin.com/in/sakshi-uppoor/)!
+ -->
