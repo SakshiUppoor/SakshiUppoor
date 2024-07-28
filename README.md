@@ -1,22 +1,25 @@
+<h3 align="center">Hi, I'm Sakshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h4 align="center">Software Development Engineer @ Amazon</h4>
 
-# Hi, I'm Sakshi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-[![Linkedin Badge](https://img.shields.io/badge/-sakshi--uppoor-blue?logo=linkedin)](https://www.linkedin.com/in/sakshi-uppoor/)
-[![Twitter Badge](https://img.shields.io/badge/-VisualCoder-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/VisualCoder)
-[![Gmail Badge](https://img.shields.io/badge/-sakshiuppoor%40gmail.com-red?logo=gmail&logoColor=white)](mailto:sakshiuppoor@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SakshiUppoor&label=Profile%20views&color=blue&style=flat)](https://github.com/SakshiUppoor)
+<p align="center">
+<a href="https://www.linkedin.com/in/sakshi-uppoor/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-sakshi--uppoor-blue?logo=linkedin"/></a>
+<a href="https://twitter.com/VisualCoder"><img alt="Twitter Badge" src="https://img.shields.io/badge/-VisualCoder-1ca0f1?logo=twitter&logoColor=white"/></a>
+<a href="mailto:sakshiuppoor@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-sakshiuppoor%40gmail.com-red?logo=gmail&logoColor=white"></a>
+<a href="(https://github.com/SakshiUppoor"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=SakshiUppoor&label=Profile%20views&color=blue&style=flat"></a>
+</p>
 
 <img align="right" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif">
-Welcome to my profile! I'm a final year Computer Engineering student at DJSCE, Mumbai. I'm a full stack web developer and UI designer. 
+Welcome to my profile!
 
-- 🔭 Working on [Zen Mode for Youtube](https://github.com/SakshiUppoor/youtube-zen-mode) (Browser Extension)
-- 🌱 Learning JavaScript
-- 👯‍♀️ Looking to collaborate on JavaScript & Python projects 
-- 💬 Ask me about web development & UI design
-- 😄 Pronouns: She/Her
+- 🚀 Building scalable solutions to real-world problems
+- 🌱 Always learning and exploring new technologies
+- 💬 Ask me about Full-Stack Development & UI Design
+- 🤝 Open to collaboration on innovative projects
+- 📬 Reach out to me - sakshiuppoor@gmail.com
 
-### Some technologies I've worked with
-- **Languages:** Python, C++, Java, HTML, CSS, JavaScript, SQL
-- **Frameworks/Libraries:** Django, Django REST Framework, Django Channels, Node, React, Flask
+#### Technologies I've worked with
+- **Languages:** Python, Java, C++, HTML, CSS, JavaScript, SQL
+- **Frameworks/Libraries:** React Native, Django, Django REST Framework, Django Channels, Node, React, Flask
 - **Others:** Git, Linux, Heroku, cPanel, Websockets, Redis
 
 <!-- 
